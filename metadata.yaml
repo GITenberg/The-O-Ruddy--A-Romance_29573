@@ -28,6 +28,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
 description: 'VII, The O''Ruddy : part one / introd. by Thomas Beer -- VIII, The O''Ruddy
   : part two'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29573#The-O-Ruddy--A-Romance
 gutenberg_issued: '2009-08-02'
 gutenberg_type: Text
 identifiers:
